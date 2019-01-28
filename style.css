@@ -1,0 +1,26 @@
+.event{
+  font-size: 16px;
+  max-width: 500px;
+}
+
+.event__title{
+  font-size: 18px;
+  font-weight: bold;
+  color: blue;
+}
+
+.event__info{
+  color: grey;
+}
+
+.event__tags{
+  font-style: italic;
+}
+
+.reminder{
+  color: green;
+}
+
+.reminder__label, .reminder__checkbox {
+  cursor: pointer;
+}
